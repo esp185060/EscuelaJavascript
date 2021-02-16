@@ -1,6 +1,9 @@
-
+* {
+  margin: 0;
+  padding: 0;
+}
 header {
-  background-color: 21c08b;
+  background-color: #21c08b;
   width: 100%;
   height: 80%;
 }
